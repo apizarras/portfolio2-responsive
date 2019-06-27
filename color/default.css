@@ -137,3 +137,25 @@ iframe.contact-map{
      -moz-box-shadow: 6px 6px 0px #c85c0e;
           box-shadow: 6px 6px 0px #c85c0e;
 }
+
+.gold {
+	color: gold;
+	font-size: 3vw
+}
+
+.chocolate {
+	color: chocolate;
+	font-size: 3vw
+}
+.seagreen{
+	color: seagreen;
+	font-size: 3vw
+}
+.blue{
+	color: rgb(46, 83, 139);
+	font-size: 3vw
+}
+.dark-orange{
+	color: darkorange;
+	font-size: 3vw
+}

@@ -159,3 +159,20 @@ iframe.contact-map{
 	color: darkorange;
 	font-size: 3vw
 }
+
+.box-height{
+	height: 32vw
+}
+
+.fa-size{
+	font-size: 5vw
+}
+
+.footer{
+	height: 3vw
+}
+
+.margin{
+	margin-left: 3vw;
+	marging-right: 3vw
+}

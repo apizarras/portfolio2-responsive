@@ -15,7 +15,7 @@ Angela Pizarras Portfolio Site
 * Heroku
 * FormSpree
 
-[Image of About Me Section](https://www.dropbox.com/s/et5u7zl0siugfq3/portfolio-about-small.PNG?dl=0)
+[Image of About Me Section](https://previews.dropbox.com/p/thumb/AAcD4ZawQwtHeA4d57RMMDWb1T5uCRE6Zc_8sytbD1nW4bkEYH8AlMZ-VsV4uY520Ysj1ewuuTgydDNu-6XunCl8-BzDw4xqwtqzCzPBoBuBFcvtQqprZYUKv4U_XTal3ji-C-4k0mHwdrDbR71V_TmUBg-SnqkA0j28KJWkjLWb2bahwP47BtXjtIFJsIzUgXUVmskNULQQVvZQ_jXKGaHCok6Z8fXxDacUctKYlLDpcB2UylW2HawwjUaIDz8pldJqhj9I25zS2rv3blEaYQFk5wYqPaZlxgdsXhobLfnq7PEdgqOsUXvkyldCGHnYw3aOlOm03UGoKoNTp9a9oNm7/p.png?fv_content=true&size_mode=5)
 
 ## Acknowledgments
 

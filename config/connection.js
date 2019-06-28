@@ -19,9 +19,10 @@ if(process.env.JAWSDB_URL) {
 
 // Creates mySQL connection using Sequelize, the empty string in the third argument spot is our password.
 const sequelize = new Sequelize("portfolio", process.env.DB_USER, process.env.DB_PASS, {
-  host: "localhost",
+  host: 'ctgplw90pifdso61.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
   user: process.env.DB_USER,
   password: process.env.DB_PASS,
+  database: 'vdc39aw0cduqwylg',
   port: 3306,
   dialect: "mysql",
   pool: {
